@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import ScrollIndicator from './components';
+import ScrollIndicator from './components/scroll-indicator';
 
 function App() {
   return (
